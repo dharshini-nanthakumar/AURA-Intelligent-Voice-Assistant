@@ -1,4 +1,5 @@
 # AURA – Intelligent Voice Assistant 🤖
+![AURA Demo](AURA-demo.png)
 
 AURA is a Python-based desktop voice assistant developed as a Science Day project.
 
